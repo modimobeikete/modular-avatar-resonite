@@ -6,7 +6,7 @@ namespace nadena.dev.resonity.remote.bootstrap;
 
 public class Launcher
 {
-    private const string defaultResoniteBase = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Resonite";
+    private const string defaultResoniteBase = "D:\\Steam\\steamapps\\common\\Resonite";
     private string assemblyBase;
     private string puppeteerBase;
 
